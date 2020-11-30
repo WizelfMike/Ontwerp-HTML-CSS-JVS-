@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #001621;
+    font-family: sans-serif;
+    font-size: 24px;
+}
+.container {
+    width: 736px; 
+    margin: 0 auto;
+    min-height: 736px;
+    background-image: url('../afb/Demon Days.jpeg');
+    color: #303332;
+    padding-top: 80px;
+
+    
+}
+.Gorilla {
+   /* background-color: rgba(0, 141, 141, 0.479);*/
+    width: 150px;
+    cursor: pointer;
+}
+.Gorilla .naam {
+   /* opacity: 0; */
+}
+.Gorilla:hover .naam{
+    opacity: 1;
+}
+
+#Damon {
+    margin-left: 26px;
+    padding-top: 247px;
+    padding-left: 188px;
+}
+#Damon .naam {
+    padding-left: 70px;
+}
+h3, p {
+    margin: 0;
+    padding: 0;
+}
+
+.naam {
+    border-left: solid 7px rgb(0, 51, 54);
+    padding-left: 9px;
+}
