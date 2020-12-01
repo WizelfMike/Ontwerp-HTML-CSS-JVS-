@@ -10,30 +10,48 @@ body {
     margin: 0 auto;
     min-height: 736px;
     background-image: url('../afb/Demon Days.jpeg');
-    color: #303332;
+    color: #00d9ff;
     padding-top: 80px;
 
     
 }
 .Gorilla {
-   /* background-color: rgba(0, 141, 141, 0.479);*/
     width: 150px;
     cursor: pointer;
 }
 .Gorilla .naam {
-   /* opacity: 0; */
+    opacity: 0; 
 }
 .Gorilla:hover .naam{
     opacity: 1;
 }
+#Murdoc {
+    margin-left: 377px;
+    margin-top: -278px;
+    padding-top: 220px;
+    padding-right: 186px; 
+}
 
+#Noodle {
+    margin-left: 377px;
+    margin-top: 13px;
+    padding-bottom: 246px; 
+    padding-right: 186px;
+}
+
+#Russel {
+    margin-left: 27px;
+    margin-top: -279px;
+    padding-bottom: 220px;
+    padding-left: 186px;
+}
 #Damon {
     margin-left: 26px;
     padding-top: 247px;
     padding-left: 188px;
 }
 #Damon .naam {
-    padding-left: 70px;
+    margin-left: 70px;
 }
 h3, p {
     margin: 0;
