@@ -8,16 +8,16 @@ Valideer op W3C voor je verder gaat https://validator.w3.org/#validate_by_input
 
 ### vervolgstappen
 1. herstel de fouten in deze mark-up en in de CSS
-1. Voeg 2 Google-fonts toe
-1. Voeg een intern menu toe
-1. Stijl het intern menu met CSS Flexbox
-1. Zet je site online op hosts.ma-cloud.nl (niet de .git-map!)
-1. push jouw aanvullingen hier op GitHub
+2. Voeg 2 Google-fonts toe
+3. Voeg een intern menu toe
+4. Stijl het intern menu met CSS Flexbox
+5. Zet je site online op hosts.ma-cloud.nl (niet de .git-map!)
+6. push jouw aanvullingen hier op GitHub
 
 
 ### bonusopdracht
 is niet verplicht
 1. maak het menu sticky
-1. zorg ervoor dat de gekozen sectie niet onder het menu schuift
+2. zorg ervoor dat de gekozen sectie niet onder het menu schuift
 
-Link naar de uitgewerkte versie: _op deze plaats_
+Link naar de uitgewerkte versie: _http://22328.hosts1.ma-cloud.nl/F1M2Ontwerp/materiaal-oefening-menu/_
