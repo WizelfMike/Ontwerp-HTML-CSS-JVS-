@@ -1,0 +1,45 @@
+html, body { margin: 0; padding: 0}
+
+p {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+h1 {
+    clear: both;
+    margin: 0;
+    font-family: "Papyrus", fantasy;
+    color: rgb(35, 114, 15)
+}
+nav {
+    background-color: rgb(97, 56, 121) ;
+    height: 30px;
+}
+nav a{
+    display: block;
+    color: rgb(55, 146, 52);
+    text-decoration: none;
+    width: 200px;
+    padding: 5px 10px;
+    float: left;
+    text-align: center;
+}
+nav a:hover{
+    background-color:rgb(255, 251, 0)
+}
+body{
+    background-color: rgb(133, 189, 226);
+}
+
+img {
+    max-width: 100%
+}
+
+footer {
+    background-color: black	;
+    color: azure;
+    padding: 10px 30px;
+}
+
+section {
+    background-color: rgb(78, 135, 185);
+}
